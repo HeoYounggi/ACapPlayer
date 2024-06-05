@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34320.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACapPlayer", "ACapPlayer\ACapPlayer.vcxproj", "{78E47F5A-8A22-42F8-9FE2-821E30D498C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78E47F5A-8A22-42F8-9FE2-821E30D498C6}.Debug|x64.ActiveCfg = Debug|x64
+		{78E47F5A-8A22-42F8-9FE2-821E30D498C6}.Debug|x64.Build.0 = Debug|x64
+		{78E47F5A-8A22-42F8-9FE2-821E30D498C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{78E47F5A-8A22-42F8-9FE2-821E30D498C6}.Debug|x86.Build.0 = Debug|Win32
+		{78E47F5A-8A22-42F8-9FE2-821E30D498C6}.Release|x64.ActiveCfg = Release|x64
+		{78E47F5A-8A22-42F8-9FE2-821E30D498C6}.Release|x64.Build.0 = Release|x64
+		{78E47F5A-8A22-42F8-9FE2-821E30D498C6}.Release|x86.ActiveCfg = Release|Win32
+		{78E47F5A-8A22-42F8-9FE2-821E30D498C6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D6C7264-7129-4884-8157-5E9F5FADB295}
+	EndGlobalSection
+EndGlobal
